@@ -1,7 +1,6 @@
 ## Namaste, I am Shraddha Gupta
 
-- I’m currently learning full stack web development
-- I am curretly working on a Social Media app, using React and Redux
+- I am currently learning full stack web development
  
 ### Tech I am familiar with and have worked on
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
