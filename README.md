@@ -1,5 +1,6 @@
 ## Namaste, I am Shraddha Gupta
 
+I am a Computer Science Engineering Graduate
 I am currently learning full stack web development
 
 ### Blogs I have written
